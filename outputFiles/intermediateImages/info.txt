@@ -1,0 +1,5 @@
+These files are contructed by the pageParser
+
+One is the first pass, where the program identifies writing from not
+
+the other is the second pass where the program attempts to draw a grid over the image to separate individual samples 
