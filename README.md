@@ -1,5 +1,5 @@
-# HandwritingToText
-The actual repository!
+# handwriting_to_text
+Hello! If you are here, chances are that you are grading my paper. This Git repository is a mess! I was in a HURRY trying to get everything turned in on time, so I apologize. Just so the program stays working (the !wget's and such), I am not going to clean up or move around the files in this repo. Instead, I am going to make a new repository named HandwritingToText. That is going to be the one with the nice formatting, and it's where all my future work will go too.
 
-It is here that I will put all of the data I have collected so far on this project. I will go over how the java program runs, its arguments, the steps it takes to separate the data samples, and the final output computations. 
+https://www.github.com/mattmv/HandwritingToText
 
