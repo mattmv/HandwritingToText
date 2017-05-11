@@ -3,3 +3,5 @@ These files are contructed by the pageParser
 One is the first pass, where the program identifies writing from not
 
 the other is the second pass where the program attempts to draw a grid over the image to separate individual samples 
+==============================================================================
+these images higlight a lot of what I think wen wrong with the program. as you can see by the axis image, not all of the images it inside of the grid. I did my best to fix this problem manually, but it was a lot of work going through the code just to make sure the most accurate representation of the picture was being represented.
